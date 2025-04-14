@@ -93,3 +93,6 @@ print(any)
 
 any = np.array([[1,2,3,4,5],[1,2,3,4,5]]) #2d
 print(any)
+
+arr = [1, 2, 3, 4, 5]
+print(sum(arr))  # This will work correctly
